@@ -1,0 +1,10 @@
+console.log("Olá, Nicoli") //mensagem
+alert("Olá mundo!") //alerta na página
+42 + 5 //soma
+12 - 2 // subtração
+15 * 2 //multiplicação
+44 / 3 //divisão
+alert(44 / 3) //sai o resultado
+alert("44 / 3") // sai a operação
+prompt("digite um valor") // para inserir valores
+valor = prompt("digite um valor") //valor é armazenado na variavel
